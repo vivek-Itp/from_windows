@@ -1,1 +1,2 @@
-hello this is branch of master
+hello this is branch of master,
+modified in gui
